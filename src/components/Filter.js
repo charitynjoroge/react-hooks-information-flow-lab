@@ -11,7 +11,7 @@ function Filter({ onCategoryChange, selectedCategory }) {
       <option value="groceries">Groceries</option>
       <option value="electronics">Electronics</option>
       <option value="clothing">Clothing</option>
-      {/* Add more options as needed */}
+      
     </select>
   );
 }
